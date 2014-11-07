@@ -3,6 +3,7 @@
 	<test name="Jenkins with testng">
 		<classes>
 			<class name="org.jenkins.JenkinsTest"></class>
+			<class name="org.jenkins.maven.JenkinsTest2"></class>
 		</classes>
 	</test>
 </suite>
