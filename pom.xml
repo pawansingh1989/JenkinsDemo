@@ -20,7 +20,7 @@
 	
 	<profiles>
         <profile>
-            <id>selenium-tests</id>
+            <id>testng</id>
             <build>
                 <plugins>
                     <plugin>
