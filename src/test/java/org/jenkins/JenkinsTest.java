@@ -7,6 +7,6 @@ public class JenkinsTest {
 	
 	@Test
 	public void testJenkins(){
-		System.out.println("############### Successful Test");
+		System.out.println("############### Successful Test##########");
 	}
 }

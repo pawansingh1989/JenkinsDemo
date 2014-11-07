@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Jenkins">
+	<test name="Jenkins with testng">
+		<classes>
+			<class name="org.jenkins.JenkinsTest"></class>
+		</classes>
+	</test>
+</suite>
