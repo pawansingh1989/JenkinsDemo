@@ -2,18 +2,18 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Jenkins" duration-ms="31" started-at="2014-11-07T08:47:30Z" finished-at="2014-11-07T08:47:30Z">
+  <suite name="Jenkins" duration-ms="198" started-at="2014-11-07T09:51:12Z" finished-at="2014-11-07T09:51:12Z">
     <groups>
     </groups>
-    <test name="Jenkins with testng" duration-ms="31" started-at="2014-11-07T08:47:30Z" finished-at="2014-11-07T08:47:30Z">
+    <test name="Jenkins with testng" duration-ms="198" started-at="2014-11-07T09:51:12Z" finished-at="2014-11-07T09:51:12Z">
       <class name="org.jenkins.maven.JenkinsTest2">
-        <test-method status="PASS" signature="testJenkins()[pri:0, instance:org.jenkins.maven.JenkinsTest2@25844fbe]" name="testJenkins" duration-ms="1" started-at="2014-11-07T14:17:30Z" finished-at="2014-11-07T14:17:30Z">
+        <test-method status="PASS" signature="testJenkins()[pri:0, instance:org.jenkins.maven.JenkinsTest2@3a6f01bf]" name="testJenkins" duration-ms="2" started-at="2014-11-07T15:21:12Z" finished-at="2014-11-07T15:21:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testJenkins -->
       </class> <!-- org.jenkins.maven.JenkinsTest2 -->
       <class name="org.jenkins.JenkinsTest">
-        <test-method status="PASS" signature="testJenkins()[pri:0, instance:org.jenkins.JenkinsTest@4a62f5b]" name="testJenkins" duration-ms="14" started-at="2014-11-07T14:17:30Z" finished-at="2014-11-07T14:17:30Z">
+        <test-method status="PASS" signature="testJenkins()[pri:0, instance:org.jenkins.JenkinsTest@118f5630]" name="testJenkins" duration-ms="114" started-at="2014-11-07T15:21:12Z" finished-at="2014-11-07T15:21:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testJenkins -->
